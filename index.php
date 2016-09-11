@@ -1,3 +1,2 @@
-<?
+<?Php
   echo 'Hola OpenShoft';
-?>
