@@ -1,2 +1,2 @@
 <?Php
-  echo 'Hola OpenShoft';
+  echo "Hola OpenShoft";
